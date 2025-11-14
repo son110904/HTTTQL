@@ -19,3 +19,11 @@ Tất cả đều là ứng dụng thành phần trong hệ thống quản trị
 Quyết định về việc định giá một sản phẩm sao cho vừa mang lại lợi nhuận cho doanh nghiệp vừa có tính cạnh tranh trên thị trường thuộc loại: Quyết định bán cấu trúc
 Đâu là hệ thống thông tin sử dụng các công cụ và các mô hình toán, thống kê để phân tích, xử lý dữ liệu nhằm tìm ra các thông tin trợ giúp các nhà người quản lý cấp trung trong quá trình ra quyết định bán cấu trúc? DSS
 Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới? ESS
+Hãy cho biết các yếu tố cấu thành HTTT? Con người, phần cứng, phần mềm, dữ liệu và viễn thông.
+Các chức năng cơ bản của HTTT là? C. Thu thập, lưu trữ, xử lí và phân phát thông tin sau khi xử lí ra.
+Đâu là đặc điểm của mạng sao (Star Network Topology)? Tương đối dễ dàng xác định được lỗi mạng này xảy ra ở đâu
+Hãy cho biết danh sách nào sau đây chứa tên thiết bị không phải là thiết bị bộ nhớ ngoài của máy tính điện tử? D. USB Flash, CD-ROM, Keyboard
+Các máy tính kết nối với nhau bằng mạng cục bộ LAN sẽ có ưu điểm nào? Chia sẻ tài nguyên phần cứng, phần mềm, dữ liệu như: máy in, máy quét,..
+Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào sau đây? Phụ thuộc vào các HTTT xử lý giao dịch
+
+
