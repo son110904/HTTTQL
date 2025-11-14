@@ -55,7 +55,7 @@ Về mặt dữ liệu, các HTTT quản lý đều phụ thuộc vào HTTT nào
 TPS
 Xử lý giao dịch hằng ngày: thu thập → xử lý → ghi nhận → thông báo.
 Dữ liệu từ các giao dịch tác nghiệp.
-Dùng cho quản lý cấp thấp.
+Dùng cho quản lý cấp tác nghiệp.
 Xử lý đơn giản: tổng hợp, phân loại.
 Mục tiêu: tự động hóa và ghi nhận giao dịch thường xuyên.
 
@@ -73,6 +73,6 @@ Mục tiêu: hỗ trợ quyết định không thường xuyên, không có quy 
 
 ESS
 Tổng hợp thông tin từ MIS, DSS + dữ liệu ngoài → biểu đồ, báo cáo khái quát.
-Dùng cho lãnh đạo cấp cao.
+Dùng cho quản lý cấp cao.
 Xử lý: tổng hợp, theo dõi, dự báo xu hướng.
 Mục tiêu: hỗ trợ quyết định chiến lược cấp cao.
